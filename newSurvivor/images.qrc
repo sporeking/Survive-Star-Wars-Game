@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/green.jpg</file>
+        <file>images/grey.jpg</file>
+        <file>images/Han.png</file>
+        <file>images/indexBackground.jpg</file>
+        <file>images/jawa.png</file>
+        <file>images/Luke.png</file>
+        <file>images/scout.png</file>
+        <file>images/snowtrooper.png</file>
+        <file>images/stormtrooper.png</file>
+        <file>images/Vader.png</file>
+        <file>images/yellow.jpg</file>
+        <file>images/rect.png</file>
+        <file>images/Luke1.png</file>
+        <file>images/Luke2.png</file>
+        <file>images/Falcon.png</file>
+        <file>images/Ti.png</file>
+        <file>images/Xwings.png</file>
+        <file>images/minion.png</file>
+        <file>images/minion2.png</file>
+        <file>images/minion3.png</file>
+        <file>images/blueBullet.png</file>
+        <file>images/blueLightsiber.png</file>
+        <file>images/bluewave1.png</file>
+        <file>images/bluewave2.png</file>
+        <file>images/redBullet.png</file>
+        <file>images/redLightsiber.png</file>
+        <file>images/redwave1.png</file>
+        <file>images/redwave2.png</file>
+        <file>images/Jabar.png</file>
+        <file>images/Han1.png</file>
+        <file>images/Han2.png</file>
+        <file>images/dropHp.png</file>
+        <file>images/dropMoney.png</file>
+        <file>images/expDrop.png</file>
+    </qresource>
+</RCC>
